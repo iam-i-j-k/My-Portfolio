@@ -484,7 +484,7 @@ footer a img{
     }
     .certificates1{
         width: 100%;
-        height: auto;
+        height: 60vh;
         margin: 30px 0;
         text-align: center;
         display: flex;
@@ -571,12 +571,7 @@ footer a img{
     }
 } */
 
-@media only screen and (max-width:1080px){
-    .certificates1{
-        height: auto;
-        /* background-color: black; */
-    }
-}
+
 
 @media only screen and (min-width:493px) and (max-width:571px){
     .p2 .site a{
