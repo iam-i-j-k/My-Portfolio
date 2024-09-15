@@ -572,12 +572,7 @@ footer a img{
     }
 } */
 
-@media only screen and (max-width:1080px){
-    .certificates1{
-        height: auto;
-        /* background-color: black; */
-    }
-}
+
 
 @media only screen and (min-width:493px) and (max-width:571px){
     .p2 .site a{
@@ -679,7 +674,7 @@ footer a img{
         width: 60%;
     }
     .menu ul li a{
-        font-size: 0.5rem;
+        font-size: 1rem;
     }
     .menu ul li img{
         width: 5px;
