@@ -133,7 +133,7 @@ section{
     /* height: 100vh; */
     padding: 20px 35px;
     margin: 10px 25px;
-/*     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.5); */
+    /* box-shadow: 0 10px 15px rgba(0, 0, 0, 0.5); */
 }
 .sectionRight img{
     position: relative;
@@ -144,7 +144,7 @@ section{
     right: 1%;
     top: 12%;
     border-radius: 50%;
-    box-shadow: 0 2px 15px rgba(0, 0, 0, 1);
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 1);
 
     &:hover{
         animation: profile 3s ease-in-out;
@@ -384,7 +384,7 @@ h3{
     display: flex;
     justify-content: space-around;
     margin: 10px 0;
-    box-shadow: 0 2px 10px black;
+    box-shadow: 0 1px 10px white;
     background-color: var(--primary-color);
 
 }
@@ -440,11 +440,11 @@ footer a img{
         /* margin: 10px 0; */
     }
     .menu ul li a{
-        font-size: 1rem;
+        font-size: 1.5rem;
 
     }
     .h1 span{
-        font-size: 15rem;
+        font-size: 20rem;
     }
     .about{
         flex-direction: column;
@@ -454,6 +454,7 @@ footer a img{
     }
     .sectionRight img{
         width: 100%;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
     }
     .sectionRight{
         position: relative;
@@ -593,7 +594,7 @@ footer a img{
 
 @media only screen and (max-width:470px){
     .menu ul li a{
-        font-size: 0.7rem;
+        font-size: 1rem;
     }
     h2{
         font-size: 1.6rem;
