@@ -558,6 +558,9 @@ footer a img{
     footer{
         font-size: 0.95rem;
     }
+    footer img{
+        width: 50px;
+    }
 }
 
 /* @media only screen and (max-width:592px){
