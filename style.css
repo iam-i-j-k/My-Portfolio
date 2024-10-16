@@ -559,7 +559,7 @@ footer a img{
         font-size: 0.95rem;
     }
     footer img{
-        width: 50px;
+        width: 10%;
     }
 }
 
@@ -584,11 +584,17 @@ footer a img{
         position: relative;
         top: 22px;
     }
+    footer img{
+        width: 10%;
+    }
 }
 @media only screen and (min-width:543px) and (max-width:592px){
     .p3 .site a{
         position: relative;
         top: 22px;
+    }
+    footer img{
+        width: 10%;
     }
 }
 
@@ -666,7 +672,7 @@ footer a img{
         width: 10%;
     }
     footer img{
-        width: 50px;
+        width: 10%;
     }
 }
 
@@ -695,7 +701,7 @@ footer a img{
         font-size: 0.6rem;
     }
     footer img{
-        width: 50px;
+        width: 10%;
     }
 }
 @media only screen and (max-width:327px){
@@ -704,6 +710,6 @@ footer a img{
         top: 22px;
     }
     footer img{
-        width: 50px;
+        width: 10%;
     }
 }
