@@ -558,7 +558,7 @@ footer a img{
     footer{
         font-size: 0.95rem;
     }
-    footer img{
+    footer a img{
         width: 10%;
     }
 }
@@ -584,7 +584,7 @@ footer a img{
         position: relative;
         top: 22px;
     }
-    footer img{
+    footer a img{
         width: 10%;
     }
 }
@@ -593,7 +593,7 @@ footer a img{
         position: relative;
         top: 22px;
     }
-    footer img{
+    footer a img{
         width: 10%;
     }
 }
@@ -671,7 +671,7 @@ footer a img{
     .details img{
         width: 10%;
     }
-    footer img{
+    footer a img{
         width: 10%;
     }
 }
@@ -700,7 +700,7 @@ footer a img{
     footer{
         font-size: 0.6rem;
     }
-    footer img{
+    footer a img{
         width: 10%;
     }
 }
@@ -709,7 +709,7 @@ footer a img{
         position: relative;
         top: 22px;
     }
-    footer img{
+    footer a img{
         width: 10%;
     }
 }
