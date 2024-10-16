@@ -665,6 +665,9 @@ footer a img{
     .details img{
         width: 10%;
     }
+    footer img{
+        width: 50px;
+    }
 }
 
 @media only screen and (max-width:341px){
@@ -691,10 +694,16 @@ footer a img{
     footer{
         font-size: 0.6rem;
     }
+    footer img{
+        width: 50px;
+    }
 }
 @media only screen and (max-width:327px){
     .p2 .site a{
         position: relative;
         top: 22px;
+    }
+    footer img{
+        width: 50px;
     }
 }
