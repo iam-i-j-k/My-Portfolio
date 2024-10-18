@@ -414,6 +414,9 @@ footer a img{
     .projects strong{
         font-size: 0.9rem;
     }
+    .grid-container{
+	    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
     .certifications{
         margin: 0;
     }
