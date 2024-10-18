@@ -93,7 +93,7 @@ main{
     overflow: hidden;
     white-space: nowrap;
 }
-.h1 span{
+.h1 span h1{
     font-family: 'Cinzel Decorative';
     color: var(--secondary-color);
     font-weight: 500;  
