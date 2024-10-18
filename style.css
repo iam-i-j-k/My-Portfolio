@@ -415,7 +415,7 @@ footer a img{
         font-size: 0.9rem;
     }
     .grid-container{
-	    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     }
     .certifications{
         margin: 0;
